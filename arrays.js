@@ -1,18 +1,9 @@
-var grilledCheeseIngredients = [
-  'bread',
-  'mild cheese',
-  'sharp cheese',
-  'butter',
-  'tomato',
-  'garlic'
+var chocolateBars = [
+  'snickers',
+  'hundred grand',
+  'kikat',
+  'skittles',
 ]
  
-var tomatoSauceIngredients = [
-  'tomato',
-  'garlic',
-  'olive oil',
-  'basil',
-  'oregano'
-]
 
-var evenNumbers = new Array();
+
