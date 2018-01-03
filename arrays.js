@@ -5,8 +5,6 @@ var chocolateBars = [
   'skittles',
 ]
  
-  var superheroines = ["catwoman", "she-hulk", "mystique"];
- 
-superheroines.push("wonder woman");
-
+function addElementToBeginningOfArray(){}
+function destructivelyAddElementToBeginningOfArray(){}
 
