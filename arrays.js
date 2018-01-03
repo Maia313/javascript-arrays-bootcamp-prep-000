@@ -9,3 +9,4 @@ function addElementToBeginningOfArray(){}
 function destructivelyAddElementToBeginningOfArray(){}
 function addElementToEndOfArray(){}
 function destructivelyAddElementToEndOfArray(){}
+function destructivelyRemoveElementFromBeginningOfArray(){}
