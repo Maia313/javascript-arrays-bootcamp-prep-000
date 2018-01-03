@@ -11,3 +11,4 @@ function addElementToEndOfArray(){}
 function destructivelyAddElementToEndOfArray(){}
 function destructivelyRemoveElementFromBeginningOfArray(){}
 function removeElementFromBeginningOfArray(){}
+function destructivelyRemoveElementFromEndOfArray(){}
